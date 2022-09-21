@@ -1,0 +1,147 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Raleway', sans-serif;
+  background-color: #f9f7f7;
+}
+
+.top-container {
+  background-color: #dbe2ef;
+  position: relative;
+  padding-top: 100px;
+}
+
+hr {
+  border: dotted #3f72af 6px;
+  border-bottom: none;
+  width: 4%;
+  margin-bottom: 50px;
+}
+p {
+  line-height: 2;
+}
+
+.title {
+  margin-top: 0;
+  font-family: 'Texturina', serif;
+  font-size: 80px;
+  color: #112d4e;
+  
+}
+.subtitle {
+  font-size: 2.0rem;
+  color: #112d4e;
+  font-weight: normal;
+}
+.profile {
+  width: 50%;
+  margin: 0 auto 50px auto;
+
+}
+.profile-img {
+  border-radius: 50%;
+  padding-top: 10px;
+}
+
+.profile-text {
+  width: 60%;
+  margin: auto;
+  font-weight: 600;
+  color: #40514E;
+  
+}
+h3 {
+  font-family: 'Texturina', serif;
+  font-size: 25px;
+  color: #3f72af;
+}
+h2 {
+  color: #112d4e;
+  font-weight: 900;
+  font-size: 30px;
+}
+
+.cloud-top{
+  position: absolute;
+  right: 200px;
+  top: 50px;
+}
+.music-mid{
+  position: absolute;
+  bottom: 200px;
+  left: 200px;
+  height: 100px;
+  width: 100px;
+}
+.middle-container {
+  background-color: #f9f7f7;
+}
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  
+}
+
+.contact-me {
+  width: 40%;
+  margin: 40px auto 60px auto;
+}
+
+.btn {
+	background-color:#44c767;
+	border-radius:11px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:'Raleway';
+	font-size:16px;
+	padding:16px 43px;
+	text-decoration:none;
+}
+.btn:hover {
+	background-color:#5cbf2a;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
+
+a {
+  color: #3f72af;
+  font-family: 'Raleway', sans-serif;
+  margin: 10px 10px;
+  text-decoration: none;
+}
+
+.copyright {
+  color: white;
+}
+
+.bottom-container {
+  background-color: #112d4e;
+  padding: 50px 0 20px;
+}
+
+.programming {
+  width: 300px;
+  padding-left: 50px;
+}
+
+
+.software {
+  text-decoration: underline;
+}
+
+.guitar-img, .vinyl-img {
+  width: 20%;
+  float: left;
+  margin-right: 30px;
+
+}
+
+.prog-img {
+  width: 20%;
+  float: right;
+  margin-left: 30px;
+}
